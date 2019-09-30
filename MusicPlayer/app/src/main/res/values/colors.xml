@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#fafafa</color>
+    <color name="colorAccent">#D81B60</color>
+
+
+    <color name="disk_color">#6291bd</color>
+    <color name="disk_color_dark">#5188ba</color>
+    <color name="disk_center_color">#cfd4dc</color>
+    <color name="disk_center_border_color">#bbc1c1</color>
+
+    <color name="bar_bg">#b3b5b7</color>
+    <color name="vol_bar_bg">#a960a9</color>
+    <color name="ui_text_color">#636363</color>
+    <color name="time_bar_bg">#1d70b6</color>
+    <color name="ColorDark">#333333</color>
+    <color name="ColorDarkAlpha">#af333333</color>
+    <color name="CoverColor">#fafafa</color>
+</resources>
